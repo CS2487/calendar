@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
 import 'package:hijri/hijri_calendar.dart';
-
+///
 class CalendarEvent extends Equatable {
   final String id;
   final String title;

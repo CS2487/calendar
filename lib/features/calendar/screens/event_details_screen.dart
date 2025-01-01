@@ -4,7 +4,7 @@ import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import '../cubit/calendar_cubit.dart';
 import '../models/calendar_event.dart';
 import 'edit_event_screen.dart';
-
+///
 class EventDetailsScreen extends StatefulWidget {
   final CalendarEvent event;
   final DateTime selectedDay;

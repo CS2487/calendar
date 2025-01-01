@@ -8,7 +8,7 @@ import 'core/widgets/bottom_navigation.dart';
 import 'features/calendar/cubit/calendar_cubit.dart';
 import 'features/settings/cubit/settings_cubit.dart';
 import 'features/settings/cubit/settings_state.dart';
-///Main
+///
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
