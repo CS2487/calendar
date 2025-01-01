@@ -19,13 +19,12 @@ dependencies:
   # Calendar
   table_calendar: ^3.0.9
   hijri: ^3.0.0
-  intl: ^0.18.1
+  intl: 
 
   # Storage
   shared_preferences: ^2.2.2
 
-  # UI
-  flutter_svg: ^2.0.9
+
 
 dev_dependencies:
   flutter_test:
