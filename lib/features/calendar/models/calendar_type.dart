@@ -1,0 +1,1 @@
+enum CalendarType { gregorian, hijri }
