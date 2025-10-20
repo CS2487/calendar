@@ -1,7 +1,9 @@
 # Dual Calendar App
-
 A beautiful Flutter application that supports both Gregorian and Hijri calendars with comprehensive event management capabilities.
-
+## 📸 Screenshots
+| Morning | Evening | Settings |
+|---------|---------|----------|
+| ![Morning](https://github.com/CS2487/age_calculator/blob/main/ScreenShoot/Screenshot1.jpg?raw=true) | ![Evening](https://github.com/CS2487/age_calculator/blob/main/ScreenShoot/Screenshot2.jpg?raw=true) | ![Settings](https://github.com/CS2487/age_calculator/blob/main/ScreenShoot/Screenshot3.jpg?raw=true) |
 ## Features
 
 - **Dual Calendar System**: Switch between Gregorian and Hijri calendars
@@ -135,3 +137,8 @@ Localization files are located in `lib/l10n/`.
 ## License
 
 This project is licensed under the MIT License.
+
+
+<p align="center">
+  Made with ❤️ Farea AL-Delaa
+</p>
