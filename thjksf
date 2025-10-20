@@ -1,0 +1,9 @@
+cd  C...
+
+git add --all
+
+$env:GIT_COMMITTER_DATE="2025-01-01 12:00:00 +0300"
+git commit --allow-empty --amend --date "2025-01-01 12:00:00 +0300" -m "All files date set to 2025-01-01"
+
+
+git push --force origin main
